@@ -1,0 +1,2167 @@
+{
+  "transactions": [
+    {
+      "date": "02-04-2024",
+      "description": "DEP TFR UPI/CR/409347311831/IJAYBHA",
+      "amount": 19000.0,
+      "type": "credit",
+      "balance": 20135.94
+    },
+    {
+      "date": "05-04-2024",
+      "description": "DEBIT CMP MANDATE DEBIT TATA",
+      "amount": 4211.0,
+      "type": "debit",
+      "balance": 15924.94
+    },
+    {
+      "date": "05-04-2024",
+      "description": "DEBIT ACHDr HDFC000640000030218",
+      "amount": 3763.0,
+      "type": "debit",
+      "balance": 12161.94
+    },
+    {
+      "date": "05-04-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 7463.0,
+      "type": "debit",
+      "balance": 4698.94
+    },
+    {
+      "date": "05-04-2024",
+      "description": "WDL TFR",
+      "amount": 200.0,
+      "type": "debit",
+      "balance": 4498.94
+    },
+    {
+      "date": "08-04-2024",
+      "description": "DEP TFR UPIDR/446250520596/Imran/YE",
+      "amount": 10000.0,
+      "type": "credit",
+      "balance": 14498.94
+    },
+    {
+      "date": "09-04-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 12509.0,
+      "type": "debit",
+      "balance": 1989.94
+    },
+    {
+      "date": "09-04-2024",
+      "description": "WDL TFR",
+      "amount": 430.0,
+      "type": "debit",
+      "balance": 1559.94
+    },
+    {
+      "date": "09-04-2024",
+      "description": "DEP TFR UPIDR/446625500164/AJAY",
+      "amount": 10000.0,
+      "type": "credit",
+      "balance": 11559.94
+    },
+    {
+      "date": "09-04-2024",
+      "description": "ATM WDL UPICR/410052013945/VIJAYBHA",
+      "amount": 10000.0,
+      "type": "debit",
+      "balance": 1559.94
+    },
+    {
+      "date": "12-04-2024",
+      "description": "WDL TFR",
+      "amount": 237.0,
+      "type": "debit",
+      "balance": 1322.94
+    },
+    {
+      "date": "12-04-2024",
+      "description": "DEP TFR UPIDR/410381398723/Go0gle",
+      "amount": 660.0,
+      "type": "credit",
+      "balance": 1982.94
+    },
+    {
+      "date": "18-04-2024",
+      "description": "WDL TFR UPICR/410303327057/BUTUL",
+      "amount": 982.0,
+      "type": "debit",
+      "balance": 1000.94
+    },
+    {
+      "date": "20-04-2024",
+      "description": "DEP TFR UPI/DR/410969096240NVI240VIJAYBHA",
+      "amount": 36000.0,
+      "type": "credit",
+      "balance": 37000.94
+    },
+    {
+      "date": "20-04-2024",
+      "description": "ATM WDL",
+      "amount": 20000.0,
+      "type": "debit",
+      "balance": 17000.94
+    },
+    {
+      "date": "20-04-2024",
+      "description": "ATM WDL",
+      "amount": 15000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "23-04-2024",
+      "description": "WDL TFR",
+      "amount": 500.0,
+      "type": "debit",
+      "balance": 1500.94
+    },
+    {
+      "date": "24-04-2024",
+      "description": "WDL TFR UPIDR/411408015409/VIJAYBHA",
+      "amount": 340.0,
+      "type": "debit",
+      "balance": 1160.94
+    },
+    {
+      "date": "03-05-2024",
+      "description": "CASH DEPOSIT: SELF AT 60234 SHEDUBHAR",
+      "amount": 39500.0,
+      "type": "credit",
+      "balance": 40660.94
+    },
+    {
+      "date": "04-05-2024",
+      "description": "WDL TFR UPIDR/449109361074/rasikjog/",
+      "amount": 20500.0,
+      "type": "debit",
+      "balance": 20160.94
+    },
+    {
+      "date": "05-05-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 3763.0,
+      "type": "debit",
+      "balance": 16397.94
+    },
+    {
+      "date": "05-05-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 7463.0,
+      "type": "debit",
+      "balance": 8934.94
+    },
+    {
+      "date": "05-05-2024",
+      "description": "WDL TFR",
+      "amount": 667.9,
+      "type": "debit",
+      "balance": 8267.04
+    },
+    {
+      "date": "06-05-2024",
+      "description": "DEBIT CMP MANDATE DEBIT TATA",
+      "amount": 4216.0,
+      "type": "debit",
+      "balance": 4051.04
+    },
+    {
+      "date": "07-05-2024",
+      "description": "DEP TFR INB",
+      "amount": 1.0,
+      "type": "credit",
+      "balance": 4052.04
+    },
+    {
+      "date": "07-05-2024",
+      "description": "DEP TFR INB",
+      "amount": 49351.0,
+      "type": "credit",
+      "balance": 53403.04
+    },
+    {
+      "date": "07-05-2024",
+      "description": "DEP TFR INB",
+      "amount": 39480.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "07-05-2024",
+      "description": "DEP TFR UPI/CR/449427609618/SURAJ",
+      "amount": 690.0,
+      "type": "credit",
+      "balance": 93573.04
+    },
+    {
+      "date": "07-05-2024",
+      "description": "DEP TFR UPICR/412868957181/GOOGLE",
+      "amount": 6.0,
+      "type": "credit",
+      "balance": 93579.04
+    },
+    {
+      "date": "08-05-2024",
+      "description": "ATM WDL ATM CASH 8410 KATARGAM",
+      "amount": 20000.0,
+      "type": "debit",
+      "balance": 73579.04
+    },
+    {
+      "date": "09-05-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 12509.0,
+      "type": "debit",
+      "balance": 61070.04
+    },
+    {
+      "date": "09-05-2024",
+      "description": "WDL TFR UPIDR/413040539686/Arjun",
+      "amount": 1.0,
+      "type": "debit",
+      "balance": 61069.04
+    },
+    {
+      "date": "09-05-2024",
+      "description": "WDL TFR UPIDR/413040787485/Ajuun",
+      "amount": 10000.0,
+      "type": "debit",
+      "balance": 51069.04
+    },
+    {
+      "date": "09-05-2024",
+      "description": "WDL TFR UPIDR/413006356391/Sai",
+      "amount": 1000.0,
+      "type": "debit",
+      "balance": 50069.04
+    },
+    {
+      "date": "11-05-2024",
+      "description": "WDL TFR UPIDR/413211490758/Arjun",
+      "amount": 5000.0,
+      "type": "debit",
+      "balance": 45069.04
+    },
+    {
+      "date": "11-05-2024",
+      "description": "ATM WDL ATM CASH 8943 KATARGAM",
+      "amount": 17000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "11-05-2024",
+      "description": "WDL TFR UPI/DR/413225071063/VIJAYBHA",
+      "amount": 1000.0,
+      "type": "debit",
+      "balance": 27069.04
+    },
+    {
+      "date": "11-05-2024",
+      "description": "WDL TFR UPIDR/413225316554/Google",
+      "amount": 229.0,
+      "type": "debit",
+      "balance": 26840.04
+    },
+    {
+      "date": "11-05-2024",
+      "description": "WDL TFR UPI/DR/413227291156/VIJAYBHA",
+      "amount": 500.0,
+      "type": "debit",
+      "balance": 26340.04
+    },
+    {
+      "date": "16-05-2024",
+      "description": "WDL TFR UPI/DR/413774201109/PRAKASH",
+      "amount": 1000.0,
+      "type": "debit",
+      "balance": 25340.04
+    },
+    {
+      "date": "17-05-2024",
+      "description": "WDL TFR UPIDR/413827290341/Bajaj",
+      "amount": 15979.0,
+      "type": "debit",
+      "balance": 9361.04
+    },
+    {
+      "date": "20-05-2024",
+      "description": "DEBIT ATMCard AMC 459156*8376",
+      "amount": 236.0,
+      "type": "debit",
+      "balance": 9125.04
+    },
+    {
+      "date": "21-05-2024",
+      "description": "CASH DEPOSIT: SELF AT 60234 SHEDUBHAR",
+      "amount": 45000.0,
+      "type": "credit",
+      "balance": 54125.04
+    },
+    {
+      "date": "21-05-2024",
+      "description": "WDL TFR UPIDR/414230935296/Bajaj",
+      "amount": 54037.0,
+      "type": "debit",
+      "balance": 88.04
+    },
+    {
+      "date": "21-05-2024",
+      "description": "CSH DEP (CDM) CDM9040109SBI",
+      "amount": 2000.0,
+      "type": "credit",
+      "balance": 2088.04
+    },
+    {
+      "date": "22-05-2024",
+      "description": "WDL TFR UPIDR/414351835921/Google",
+      "amount": 340.0,
+      "type": "debit",
+      "balance": 1748.04
+    },
+    {
+      "date": "24-05-2024",
+      "description": "WDL TFR UPI/DR/414532351625/Google",
+      "amount": 126.9,
+      "type": "debit",
+      "balance": 1621.14
+    },
+    {
+      "date": "26-05-2024",
+      "description": "WDL TFR UPIDR/414708520361/Google",
+      "amount": 150.9,
+      "type": "debit",
+      "balance": 1470.24
+    },
+    {
+      "date": "30-05-2024",
+      "description": "WDL TFR UPIDR/415195348455/MIN",
+      "amount": 100.0,
+      "type": "debit",
+      "balance": 1370.24
+    },
+    {
+      "date": "31-05-2024",
+      "description": "DEP TFR UPI/CR/415212055289/ADROJA",
+      "amount": 1000.0,
+      "type": "credit",
+      "balance": 2370.24
+    },
+    {
+      "date": "02-06-2024",
+      "description": "WDL TFR UPIDR/415429518206/Google",
+      "amount": 722.0,
+      "type": "debit",
+      "balance": 1648.24
+    },
+    {
+      "date": "03-06-2024",
+      "description": "DEP TFR UPI/CR/415509021057/ADROJA",
+      "amount": 11000.0,
+      "type": "credit",
+      "balance": 12648.24
+    },
+    {
+      "date": "03-06-2024",
+      "description": "WDL TFR UPIDR/415574968108/JOGANI",
+      "amount": 5000.0,
+      "type": "debit",
+      "balance": 7648.24
+    },
+    {
+      "date": "04-06-2024",
+      "description": "DEP TFR INB",
+      "amount": 5000.0,
+      "type": "credit",
+      "balance": 12648.24
+    },
+    {
+      "date": "05-06-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 3763.0,
+      "type": "debit",
+      "balance": 8885.24
+    },
+    {
+      "date": "05-06-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 7463.0,
+      "type": "debit",
+      "balance": 1422.24
+    },
+    {
+      "date": "07-06-2024",
+      "description": "DEP TFR UPI/CR/415911040380/ADROJA",
+      "amount": 12500.0,
+      "type": "credit",
+      "balance": 13922.24
+    },
+    {
+      "date": "09-06-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 12509.0,
+      "type": "debit",
+      "balance": 1413.24
+    },
+    {
+      "date": "25-06-2024",
+      "description": "INTEREST CREDIT",
+      "amount": 56.0,
+      "type": "credit",
+      "balance": 1469.24
+    },
+    {
+      "date": "27-06-2024",
+      "description": "WDL TFR UPIDR/417947245012/9190300",
+      "amount": 1060.0,
+      "type": "debit",
+      "balance": 409.24
+    },
+    {
+      "date": "27-06-2024",
+      "description": "DEP TFR UPI/CR/417916086280/ADROJA",
+      "amount": 600.0,
+      "type": "credit",
+      "balance": 1009.24
+    },
+    {
+      "date": "28-06-2024",
+      "description": "CASH DEPOSIT SELF AT 60234 SHEDUBHAR",
+      "amount": 40000.0,
+      "type": "credit",
+      "balance": 41009.24
+    },
+    {
+      "date": "29-06-2024",
+      "description": "WDL TFR UPI/DR/418167066568/adroja.",
+      "amount": 100.0,
+      "type": "debit",
+      "balance": 40909.24
+    },
+    {
+      "date": "01-07-2024",
+      "description": "WDL TFR UPIDR/418324178638/Google",
+      "amount": 216.0,
+      "type": "debit",
+      "balance": 40693.24
+    },
+    {
+      "date": "01-07-2024",
+      "description": "WDL TFR UPI/DR/418345858825/VRUNDA",
+      "amount": 120.0,
+      "type": "debit",
+      "balance": 40573.24
+    },
+    {
+      "date": "01-07-2024",
+      "description": "WDL TFR UPI/DR/418349448384/DOBARIY",
+      "amount": 1.0,
+      "type": "debit",
+      "balance": 40572.24
+    },
+    {
+      "date": "01-07-2024",
+      "description": "WDL TFR UPIDR/418349643475/DOBARIY",
+      "amount": 1550.0,
+      "type": "debit",
+      "balance": 39022.24
+    },
+    {
+      "date": "02-07-2024",
+      "description": "CEMTEXI DEP ACHCr BKID00149000016625",
+      "amount": 14.0,
+      "type": "credit",
+      "balance": 39036.24
+    },
+    {
+      "date": "04-07-2024",
+      "description": "WDL TFR UPIDR/418601575863/JOGANI",
+      "amount": 8000.0,
+      "type": "debit",
+      "balance": 31036.24
+    },
+    {
+      "date": "05-07-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 3763.0,
+      "type": "debit",
+      "balance": 27273.24
+    },
+    {
+      "date": "05-07-2024",
+      "description": "WDL TFR UPIDR/418748461601/MIN",
+      "amount": 445.0,
+      "type": "debit",
+      "balance": 26828.24
+    },
+    {
+      "date": "05-07-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 7463.0,
+      "type": "debit",
+      "balance": 19365.24
+    },
+    {
+      "date": "06-07-2024",
+      "description": "DEP TFR INB",
+      "amount": 49351.0,
+      "type": "credit",
+      "balance": 68716.24
+    },
+    {
+      "date": "06-07-2024",
+      "description": "DEP TFR INB",
+      "amount": 39480.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "06-07-2024",
+      "description": "WDL TFR UPIDR/418882397848/ADROJA",
+      "amount": 24000.0,
+      "type": "debit",
+      "balance": 84196.24
+    },
+    {
+      "date": "06-07-2024",
+      "description": "CASH Withdrawn at GCC AT 60234 SHEDUBHAR",
+      "amount": 40000.0,
+      "type": "debit",
+      "balance": 44196.24
+    },
+    {
+      "date": "08-07-2024",
+      "description": "ATM WDL ATM CASH 4466 TOM379",
+      "amount": 20000.0,
+      "type": "debit",
+      "balance": 24196.24
+    },
+    {
+      "date": "09-07-2024",
+      "description": "POS ATMI PURCH OTHPOS419103415830SAI JALA",
+      "amount": 306.0,
+      "type": "debit",
+      "balance": 23890.24
+    },
+    {
+      "date": "09-07-2024",
+      "description": "DEBIT ACHDr HDFC000640000030218",
+      "amount": 12509.0,
+      "type": "debit",
+      "balance": 11381.24
+    },
+    {
+      "date": "09-07-2024",
+      "description": "WDL TFR UPI/DR/419152683562/VIJAYBHA",
+      "amount": 900.0,
+      "type": "debit",
+      "balance": 10481.24
+    },
+    {
+      "date": "10-07-2024",
+      "description": "ATM WDL ATM CASH 5527 KATARGAM",
+      "amount": 10000.0,
+      "type": "debit",
+      "balance": 481.24
+    },
+    {
+      "date": "10-07-2024",
+      "description": "DEP TFR UPI/CR/419218863029/JAVIYA",
+      "amount": 10000.0,
+      "type": "credit",
+      "balance": 10481.24
+    },
+    {
+      "date": "11-07-2024",
+      "description": "ATM WDL ATM CASH 5416 TOM379",
+      "amount": 10000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "19-07-2024",
+      "description": "DEP TFR UPI/CR/420114067967IADROJA",
+      "amount": 7000.0,
+      "type": "credit",
+      "balance": 7481.24
+    },
+    {
+      "date": "19-07-2024",
+      "description": "ATM WDL ATM CASH 7351 TOM379",
+      "amount": 7000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "19-07-2024",
+      "description": "CEMTEX DEP ACHCr NACH000000000059108",
+      "amount": 53.2,
+      "type": "credit",
+      "balance": 534.44
+    },
+    {
+      "date": "23-07-2024",
+      "description": "DEP TFR UPICR/420571849780/NARESHB",
+      "amount": 2840.0,
+      "type": "credit",
+      "balance": 3374.44
+    },
+    {
+      "date": "23-07-2024",
+      "description": "WDL TFR UPIDR/420506421180/Google",
+      "amount": 2040.0,
+      "type": "debit",
+      "balance": 1334.44
+    },
+    {
+      "date": "30-07-2024",
+      "description": "DEP TFR UPICR/421223040616/VIJAYBHA",
+      "amount": 22000.0,
+      "type": "credit",
+      "balance": 23334.44
+    },
+    {
+      "date": "30-07-2024",
+      "description": "WDL TFR UPIDR/421227031920/Google",
+      "amount": 628.0,
+      "type": "debit",
+      "balance": 22706.44
+    },
+    {
+      "date": "30-07-2024",
+      "description": "WDL TFR UPI/DR/421227038697/Google",
+      "amount": 165.0,
+      "type": "debit",
+      "balance": 22541.44
+    },
+    {
+      "date": "31-07-2024",
+      "description": "WDL TFR UPIDR/421333072433/adroja.",
+      "amount": 10000.0,
+      "type": "debit",
+      "balance": 12541.44
+    },
+    {
+      "date": "31-07-2024",
+      "description": "WDL TFR UPIDR/421368813240/ADROJA",
+      "amount": 1000.0,
+      "type": "debit",
+      "balance": 11541.44
+    },
+    {
+      "date": "03-08-2024",
+      "description": "DEP TFR SBIYA24216184801059565366-",
+      "amount": 1.0,
+      "type": "credit",
+      "balance": 11542.44
+    },
+    {
+      "date": "03-08-2024",
+      "description": "DEP TFR SBIYA24216192401426141815-",
+      "amount": 40000.0,
+      "type": "credit",
+      "balance": 51542.44
+    },
+    {
+      "date": "03-08-2024",
+      "description": "WDL TFR UPIDR/421615193305/JOGANI",
+      "amount": 40000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-08-2024",
+      "description": "DEP TFR UPICR/421887226738/MAYUR",
+      "amount": 500.0,
+      "type": "credit",
+      "balance": 12042.44
+    },
+    {
+      "date": "05-08-2024",
+      "description": "WDL TFR UPIDR/421815707123/GAYATRI",
+      "amount": 175.0,
+      "type": "debit",
+      "balance": 11867.44
+    },
+    {
+      "date": "05-08-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 3763.0,
+      "type": "debit",
+      "balance": 8104.44
+    },
+    {
+      "date": "05-08-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 7463.0,
+      "type": "debit",
+      "balance": 641.44
+    },
+    {
+      "date": "06-08-2024",
+      "description": "DEP TFR INB IMPS/421928165133/RNB-",
+      "amount": 49351.0,
+      "type": "credit",
+      "balance": 49992.44
+    },
+    {
+      "date": "06-08-2024",
+      "description": "DEP TFR INB IMPS/421925165986/RNB-",
+      "amount": 49350.0,
+      "type": "credit",
+      "balance": 99342.44
+    },
+    {
+      "date": "06-08-2024",
+      "description": "WDL TFR UPI/DR/421924574691/S0NKAR",
+      "amount": 300.0,
+      "type": "debit",
+      "balance": 99342.44
+    },
+    {
+      "date": "06-08-2024",
+      "description": "WDL TFR UPIDR/421927094368/Google",
+      "amount": 4650.0,
+      "type": "debit",
+      "balance": 94392.44
+    },
+    {
+      "date": "06-08-2024",
+      "description": "WDL TFR UPI/DR/421975278955/Mr",
+      "amount": 40000.0,
+      "type": "debit",
+      "balance": 54392.44
+    },
+    {
+      "date": "06-08-2024",
+      "description": "WDL TFR UPIDR/421906292306/ATULKU",
+      "amount": 41000.0,
+      "type": "debit",
+      "balance": 1392.44
+    },
+    {
+      "date": "07-08-2024",
+      "description": "POS. ATM PURCH OTHPOS422003607389SAI JALA",
+      "amount": 200.0,
+      "type": "debit",
+      "balance": 1392.44
+    },
+    {
+      "date": "08-08-2024",
+      "description": "WDL TFR UPI/DR/458707904313/SURAJ",
+      "amount": 100.0,
+      "type": "debit",
+      "balance": 1392.44
+    },
+    {
+      "date": "08-08-2024",
+      "description": "DEP TFR UPICR/422129137993/RAJUBHAI",
+      "amount": 2000.0,
+      "type": "credit",
+      "balance": 15192.44
+    },
+    {
+      "date": "08-08-2024",
+      "description": "DEP TFR UPI/CR/422110631945/SURAJ",
+      "amount": 100.0,
+      "type": "credit",
+      "balance": 15292.44
+    },
+    {
+      "date": "09-08-2024",
+      "description": "WDL TFR UPI/DR/422239592778/Jaypalsi/",
+      "amount": 40.0,
+      "type": "debit",
+      "balance": 15152.44
+    },
+    {
+      "date": "09-08-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 12509.0,
+      "type": "debit",
+      "balance": 2643.44
+    },
+    {
+      "date": "09-08-2024",
+      "description": "WDL TFR UPIDR/422256581544/KULDEEP",
+      "amount": 50.0,
+      "type": "debit",
+      "balance": 2593.44
+    },
+    {
+      "date": "09-08-2024",
+      "description": "WDL TFR UPIDR/458871484502/GAYATRI",
+      "amount": 405.0,
+      "type": "debit",
+      "balance": 2188.44
+    },
+    {
+      "date": "09-08-2024",
+      "description": "WDL TFR UPIDR/458823085425/PINTU",
+      "amount": 50.0,
+      "type": "debit",
+      "balance": 2138.44
+    },
+    {
+      "date": "09-08-2024",
+      "description": "WDL TFR UPIDR/458840248552/DINESHS",
+      "amount": 525.0,
+      "type": "debit",
+      "balance": 1633.44
+    },
+    {
+      "date": "10-08-2024",
+      "description": "WDL TFR UPIDR/422303907296/BHAVYA",
+      "amount": 5.0,
+      "type": "debit",
+      "balance": 1628.44
+    },
+    {
+      "date": "10-08-2024",
+      "description": "DEBIT 00000060234DOM",
+      "amount": 0.94,
+      "type": "debit",
+      "balance": 1627.5
+    },
+    {
+      "date": "14-08-2024",
+      "description": "WDL TFR UPIDR/422706079628/Santosh",
+      "amount": 20.0,
+      "type": "debit",
+      "balance": 1607.5
+    },
+    {
+      "date": "17-08-2024",
+      "description": "WDL TFR UPI/DR/459621377385/GAYATRI",
+      "amount": 175.0,
+      "type": "debit",
+      "balance": 1432.5
+    },
+    {
+      "date": "22-08-2024",
+      "description": "DEP TFR RTGS UTR NO:",
+      "amount": 424611.0,
+      "type": "credit",
+      "balance": 425973.5
+    },
+    {
+      "date": "22-08-2024",
+      "description": "WDL TFR UPI/DR/423546629237/ADROJA",
+      "amount": 50000.0,
+      "type": "debit",
+      "balance": 375973.5
+    },
+    {
+      "date": "23-08-2024",
+      "description": "WDL TFR UPI/DR/423676124673/BUHA",
+      "amount": 200.0,
+      "type": "debit",
+      "balance": 375773.5
+    },
+    {
+      "date": "23-08-2024",
+      "description": "WDL TFR UPIDR/423690424448/RAJUBHA",
+      "amount": 20000.0,
+      "type": "debit",
+      "balance": 355773.5
+    },
+    {
+      "date": "23-08-2024",
+      "description": "WDL TFR UPIDR/423697920359/Gujarat",
+      "amount": 10.0,
+      "type": "debit",
+      "balance": 355763.5
+    },
+    {
+      "date": "23-08-2024",
+      "description": "WDL TFR UPIDR/423698538674/Gujarat",
+      "amount": 15.0,
+      "type": "debit",
+      "balance": 355748.5
+    },
+    {
+      "date": "27-08-2024",
+      "description": "WDL TFR UPI/DR/424051473609/NAVAPA",
+      "amount": 15.0,
+      "type": "debit",
+      "balance": 355733.5
+    },
+    {
+      "date": "28-08-2024",
+      "description": "WDL TFR UPI/DR/424167610631/Google",
+      "amount": 165.0,
+      "type": "debit",
+      "balance": 355568.5
+    },
+    {
+      "date": "28-08-2024",
+      "description": "WDL TFR UPIDR/424167685234/Google",
+      "amount": 675.0,
+      "type": "debit",
+      "balance": 354893.5
+    },
+    {
+      "date": "28-08-2024",
+      "description": "WDL TFR UPIDR/424168258469/PADMANI",
+      "amount": 20000.0,
+      "type": "debit",
+      "balance": 334893.5
+    },
+    {
+      "date": "28-08-2024",
+      "description": "WDL TFR UPIDR/424173801486/Google",
+      "amount": 11640.0,
+      "type": "debit",
+      "balance": 323253.5
+    },
+    {
+      "date": "28-08-2024",
+      "description": "WDL TFR UPIDR/460759664253/Sai",
+      "amount": 319.0,
+      "type": "debit",
+      "balance": 322934.5
+    },
+    {
+      "date": "28-08-2024",
+      "description": "WDL TFR UPIDR/424182944521/BLACK",
+      "amount": 300.0,
+      "type": "debit",
+      "balance": 322634.5
+    },
+    {
+      "date": "28-08-2024",
+      "description": "WDL TFR UPIDR/424184433340/Black",
+      "amount": 400.0,
+      "type": "debit",
+      "balance": 322234.5
+    },
+    {
+      "date": "28-08-2024",
+      "description": "WDL TFR UPIDR/424116874363/Pramukh",
+      "amount": 1550.0,
+      "type": "debit",
+      "balance": 320684.5
+    },
+    {
+      "date": "28-08-2024",
+      "description": "WDL TFR UPIDR/424193167824/Maa",
+      "amount": 260.0,
+      "type": "debit",
+      "balance": 320424.5
+    },
+    {
+      "date": "29-08-2024",
+      "description": "CAS CASH CHEQUE 519287 CASH WITHDRAWAL BY CHQ",
+      "amount": 98400.0,
+      "type": "credit",
+      "balance": 222024.5
+    },
+    {
+      "date": "29-08-2024",
+      "description": "ATM WDL ATM CASH 5479 TOM379",
+      "amount": 20000.0,
+      "type": "debit",
+      "balance": 202024.5
+    },
+    {
+      "date": "29-08-2024",
+      "description": "ATM WDL ATM CASH 5481 TOM379",
+      "amount": 20000.0,
+      "type": "debit",
+      "balance": 182024.5
+    },
+    {
+      "date": "29-08-2024",
+      "description": "WDL TFR UPIDR/424293715910/AJAY",
+      "amount": 20000.0,
+      "type": "debit",
+      "balance": 162024.5
+    },
+    {
+      "date": "30-08-2024",
+      "description": "WDL TFR UPIDR/424360024199/AJAY",
+      "amount": 50000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "31-08-2024",
+      "description": "WDL TFR UPI/DR/424416419429/SANDIPB",
+      "amount": 23000.0,
+      "type": "debit",
+      "balance": 89024.5
+    },
+    {
+      "date": "01-09-2024",
+      "description": "DEP TFR UPI/CR/461198020973/DETRUJA",
+      "amount": 1170.0,
+      "type": "credit",
+      "balance": 90194.5
+    },
+    {
+      "date": "03-09-2024",
+      "description": "DEP TFR UPI/CR/424797759440/SURAJ",
+      "amount": 400.0,
+      "type": "credit",
+      "balance": 90594.5
+    },
+    {
+      "date": "03-09-2024",
+      "description": "WDL TFR UPI/DR/424788156571/JOGANI",
+      "amount": 82000.0,
+      "type": "debit",
+      "balance": 8594.5
+    },
+    {
+      "date": "03-09-2024",
+      "description": "WDL TFR UPIDR/424788578539/Google",
+      "amount": 400.0,
+      "type": "debit",
+      "balance": 8194.5
+    },
+    {
+      "date": "03-09-2024",
+      "description": "DEP TFR UPI/CR/424713081679/ADROJA",
+      "amount": 3200.0,
+      "type": "credit",
+      "balance": 11394.5
+    },
+    {
+      "date": "05-09-2024",
+      "description": "DEBIT ACHDr HDFC000640000030218",
+      "amount": 7463.0,
+      "type": "debit",
+      "balance": 3931.5
+    },
+    {
+      "date": "05-09-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 3763.0,
+      "type": "debit",
+      "balance": 168.5
+    },
+    {
+      "date": "08-09-2024",
+      "description": "DEP TFR UPI/CR/425266158961/VI961VIJAYBHA",
+      "amount": 32500.0,
+      "type": "credit",
+      "balance": 32668.5
+    },
+    {
+      "date": "09-09-2024",
+      "description": "ATM WDL ATM CASH 7933 TOM379",
+      "amount": 19000.0,
+      "type": "debit",
+      "balance": 13668.5
+    },
+    {
+      "date": "09-09-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 12509.0,
+      "type": "debit",
+      "balance": 1159.5
+    },
+    {
+      "date": "09-09-2024",
+      "description": "WDL TFR UPI/DR/425328683115/Amber",
+      "amount": 150.0,
+      "type": "debit",
+      "balance": 1009.5
+    },
+    {
+      "date": "10-09-2024",
+      "description": "WDL TFR UPIDR/462008858605/GAYATRI",
+      "amount": 175.0,
+      "type": "debit",
+      "balance": 834.5
+    },
+    {
+      "date": "20-09-2024",
+      "description": "DEP TFR SBIYA24264180604006926704-",
+      "amount": 5500.0,
+      "type": "credit",
+      "balance": 6334.5
+    },
+    {
+      "date": "20-09-2024",
+      "description": "WDL TFR UPIDR/426403996320/RAMESH",
+      "amount": 5500.0,
+      "type": "debit",
+      "balance": 834.5
+    },
+    {
+      "date": "25-09-2024",
+      "description": "WDL TFR UPIDR/463536304900/GAYATRI",
+      "amount": 275.0,
+      "type": "debit",
+      "balance": 559.5
+    },
+    {
+      "date": "25-09-2024",
+      "description": "INTEREST CREDIT",
+      "amount": 271.0,
+      "type": "credit",
+      "balance": 830.5
+    },
+    {
+      "date": "28-09-2024",
+      "description": "WDL TFR UPIDR/427298981798/Google",
+      "amount": 722.0,
+      "type": "debit",
+      "balance": 108.5
+    },
+    {
+      "date": "29-09-2024",
+      "description": "DEP TFR SBIYA24273201300873356439-",
+      "amount": 3.0,
+      "type": "credit",
+      "balance": 111.5
+    },
+    {
+      "date": "29-09-2024",
+      "description": "DEP TFR SBIYA24273201704477064013-",
+      "amount": 22000.0,
+      "type": "credit",
+      "balance": 22111.5
+    },
+    {
+      "date": "30-09-2024",
+      "description": "WDL TFR UPI/DR/427475072405/Google",
+      "amount": 230.0,
+      "type": "debit",
+      "balance": 21881.5
+    },
+    {
+      "date": "30-09-2024",
+      "description": "WDL TFR UPI/DR/427475097958/ADROJA",
+      "amount": 6000.0,
+      "type": "debit",
+      "balance": 15881.5
+    },
+    {
+      "date": "30-09-2024",
+      "description": "WDL TFR UPIDR/427486528155/Go0gle",
+      "amount": 5496.0,
+      "type": "debit",
+      "balance": 10210.5
+    },
+    {
+      "date": "30-09-2024",
+      "description": "WDL TFR UPI/DR/427492102182/GAYATRI",
+      "amount": 175.0,
+      "type": "debit",
+      "balance": 10210.5
+    },
+    {
+      "date": "01-10-2024",
+      "description": "WDL TFR UPIDR/427557859555/Google",
+      "amount": 1312.8,
+      "type": "debit",
+      "balance": 8897.7
+    },
+    {
+      "date": "02-10-2024",
+      "description": "WDL TFR UPIDR/464296794202/Sahjanan",
+      "amount": 7500.0,
+      "type": "debit",
+      "balance": 1397.7
+    },
+    {
+      "date": "03-10-2024",
+      "description": "DEP TFR UPI/CR/427713083218/ADROJA",
+      "amount": 6000.0,
+      "type": "credit",
+      "balance": 7397.7
+    },
+    {
+      "date": "03-10-2024",
+      "description": "WDL TFR UPIDR/464338953541/SAKARIY",
+      "amount": 1050.0,
+      "type": "debit",
+      "balance": 6347.7
+    },
+    {
+      "date": "04-10-2024",
+      "description": "WDL TFR UPI/DR/427811394569/Jio",
+      "amount": 479.0,
+      "type": "debit",
+      "balance": 5886.7
+    },
+    {
+      "date": "04-10-2024",
+      "description": "DEP TFR UPI/CR/427807236664/JOGANI",
+      "amount": 5000.0,
+      "type": "credit",
+      "balance": 10868.7
+    },
+    {
+      "date": "04-10-2024",
+      "description": "DEP TFR UPI/CR/427821211333/ADROJA",
+      "amount": 500.0,
+      "type": "credit",
+      "balance": 11368.7
+    },
+    {
+      "date": "04-10-2024",
+      "description": "DEP TFR UPI/CR/427815787713/SURESH",
+      "amount": 7500.0,
+      "type": "credit",
+      "balance": 18868.7
+    },
+    {
+      "date": "05-10-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 3763.0,
+      "type": "debit",
+      "balance": 15105.7
+    },
+    {
+      "date": "05-10-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 7463.0,
+      "type": "debit",
+      "balance": 7642.7
+    },
+    {
+      "date": "07-10-2024",
+      "description": "WDL TFR UPIDR/428149623664/rasikjogl",
+      "amount": 5000.0,
+      "type": "debit",
+      "balance": 2642.7
+    },
+    {
+      "date": "08-10-2024",
+      "description": "CASH DEPOSIT SELF AT 60234 SHEDUBHAR",
+      "amount": 16000.0,
+      "type": "credit",
+      "balance": 18642.7
+    },
+    {
+      "date": "08-10-2024",
+      "description": "WDL TFR UPIDR/428288186697/adroja.",
+      "amount": 5000.0,
+      "type": "debit",
+      "balance": 134642.7
+    },
+    {
+      "date": "04-10-2024",
+      "description": "WDL TFR UPI/DR/427811394569/Jio",
+      "amount": 479.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "04-10-2024",
+      "description": "DEP TFR UPI/CR/427807236664/JOGANI",
+      "amount": 5000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "04-10-2024",
+      "description": "DEP TFR UPI/CR/427821211333/ADROJA",
+      "amount": 500.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "04-10-2024",
+      "description": "DEP TFR UPI/CR/427815787713/SURESH",
+      "amount": 7500.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "05-10-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 3763.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-10-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 7463.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "07-10-2024",
+      "description": "WDL TFR UPIDR/428149623664/rasikjogl",
+      "amount": 5000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "08-10-2024",
+      "description": "CASH DEPOSIT SELF AT 60234 SHEDUBHAR",
+      "amount": 16000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "08-10-2024",
+      "description": "WDL TFR UPI/DR/428288186697/adroja.",
+      "amount": 5000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "09-10-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 12509.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "11-10-2024",
+      "description": "WDL TFR UPIDR/465172661698/Tata",
+      "amount": 199.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "20-10-2024",
+      "description": "DEP TFR UPI/CR/429471551470/VIJAYBHA",
+      "amount": 5000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "23-10-2024",
+      "description": "DEP TFR UPICR/429762049578/DEVIPUJA",
+      "amount": 120.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "26-10-2024",
+      "description": "DEP TFR SBIYA24300122301622743543-",
+      "amount": 20000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "26-10-2024",
+      "description": "WDL TFR UPIDR/430047012213/Jio",
+      "amount": 479.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "26-10-2024",
+      "description": "WDL TFR UPIDR/466691704100/Google",
+      "amount": 69.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "26-10-2024",
+      "description": "DEP TFR UPI/CR/466684505622/VIULBH",
+      "amount": 50000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "27-10-2024",
+      "description": "WDL TFR UPIDR/466717623602/Google",
+      "amount": 675.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "27-10-2024",
+      "description": "WDL TFR UPIDR/466786317377/Google",
+      "amount": 154.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "27-10-2024",
+      "description": "DEP TFR UPI/CR/430147681032/SURAJ",
+      "amount": 800.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "27-10-2024",
+      "description": "WDL TFR UPIDR/430166431391/KIYUR",
+      "amount": 440.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "27-10-2024",
+      "description": "WDL TFR UPIDR/466781819066/SIDDHAP",
+      "amount": 30000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "27-10-2024",
+      "description": "WDL TFR UPI/DR/430110727164/MIRA",
+      "amount": 550.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "27-10-2024",
+      "description": "DEP TFR UPI/CR/982721593014/GOOGLE",
+      "amount": 6.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "27-10-2024",
+      "description": "WDL TFR UPI/DR/430140035725/Google",
+      "amount": 1140.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "27-10-2024",
+      "description": "WDL TFR UPIDR/466737733289/Google",
+      "amount": 1180.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "27-10-2024",
+      "description": "WDL TFR UPIDR/466732136749/NIKULBH",
+      "amount": 20000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "27-10-2024",
+      "description": "WDL TFR UPI/DR/466784954911/ANIL",
+      "amount": 280.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "27-10-2024",
+      "description": "WDL TFR UPIDR/466725560864/Thumma",
+      "amount": 800.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "28-10-2024",
+      "description": "WDL TFR UPIDR/466874570037/saini.",
+      "amount": 200.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "28-10-2024",
+      "description": "WDL TFR UPIDR/466839173456/SBI",
+      "amount": 100.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "28-10-2024",
+      "description": "WDL TFR UPIDR/430279872017/SBI",
+      "amount": 500.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "28-10-2024",
+      "description": "DEP TFR UPI/CR/466828269005/VIPULBH",
+      "amount": 50000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "28-10-2024",
+      "description": "WDL TFR UPIDR/430272784748/KALPNAB",
+      "amount": 460.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "28-10-2024",
+      "description": "WDL TFR UPIDR/466836778629/BAHUCH",
+      "amount": 1885.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "28-10-2024",
+      "description": "WDL TFR UPIDR/430223500057/Swastik",
+      "amount": 163.96,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "28-10-2024",
+      "description": "WDL TFR UPIDR/466818795430/PADMANI",
+      "amount": 7000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "28-10-2024",
+      "description": "WDL TFR UPIDR/466835300078/Shreej",
+      "amount": 398.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "29-10-2024",
+      "description": "WDL TFR UPIDR/430309952233/adroja.",
+      "amount": 4100.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "29-10-2024",
+      "description": "WDL TFR UPI/DR/430376871828/KISHAN",
+      "amount": 39000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "30-10-2024",
+      "description": "WDL TFR UPI/DR/430420038406/Mann",
+      "amount": 228.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "30-10-2024",
+      "description": "WDL TFR UPIDR/430446549181/HARDIK",
+      "amount": 3000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "31-10-2024",
+      "description": "DEP TFR UPI/CR/467121639355/SHELDIY",
+      "amount": 60.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "04-11-2024",
+      "description": "WDL TFR UPI/DR/430948628355/VAIBHAV",
+      "amount": 1800.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-11-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 3763.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-11-2024",
+      "description": "DEBIT ACHDr HDFC000640000030218",
+      "amount": 7463.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "08-11-2024",
+      "description": "CASH DEPOSIT SELF AT 60234 SHEDUBHAR",
+      "amount": 30000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "09-11-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 12509.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "10-11-2024",
+      "description": "WDL TFR UPIDR/431508057234/Google",
+      "amount": 398.9,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "11-11-2024",
+      "description": "DEP TFR UPICR/468266945452/ADROJA",
+      "amount": 1000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "11-11-2024",
+      "description": "WDL TFR UPI/DR/431685496358/CHAPAN",
+      "amount": 2500.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "11-11-2024",
+      "description": "WDL TFR UPIDR/468293410847/ROHITKU",
+      "amount": 230.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "11-11-2024",
+      "description": "WDL TFR UPIDR/431678134587/GANGADI",
+      "amount": 200.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "12-11-2024",
+      "description": "WDL TFR UPIDR/468387837110/ICICI",
+      "amount": 480.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "14-11-2024",
+      "description": "WDL TFR UPI/DR/431944256987/GODHAN",
+      "amount": 6000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "18-11-2024",
+      "description": "WDL TFR UPIDR/432396844339/HARIYAN",
+      "amount": 100.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "18-11-2024",
+      "description": "WDL TFR UPIDR/468913650493/KISHOR",
+      "amount": 100.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "25-11-2024",
+      "description": "DEP TFR UPICR/279457743304/GOOGLE",
+      "amount": 6.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "25-11-2024",
+      "description": "WDL TFR UPIDR/469699583949/Google",
+      "amount": 675.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "25-11-2024",
+      "description": "WDL TFR UPI/DR/469618595722/Jio",
+      "amount": 69.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "27-11-2024",
+      "description": "WDL TFR UPIDR/433277223972/Google",
+      "amount": 800.9,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "28-11-2024",
+      "description": "WDL TFR UPIDR/433387596400/Google",
+      "amount": 223.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "28-11-2024",
+      "description": "WDL TFR UPI/DR/433363547658/MODA",
+      "amount": 300.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "30-11-2024",
+      "description": "WDL TFR UPI/DR/470101626291/BHAVES",
+      "amount": 145.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "30-11-2024",
+      "description": "WDL TFR UPIDR/470140534941/BHAVES",
+      "amount": 35.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "30-11-2024",
+      "description": "WDL TFR UPI/DR/433585235038/ICICI",
+      "amount": 500.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "30-11-2024",
+      "description": "DEP TFR UPI/CR/781228823354/GOOGLE",
+      "amount": 6.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "02-12-2024",
+      "description": "WDL TFR UPI/DR/470309653685/OM CNG",
+      "amount": 507.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "02-12-2024",
+      "description": "WDL TFR UPIDR/433769057698/Google",
+      "amount": 150.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "02-12-2024",
+      "description": "WDL TFR UPIDR/470363857133/Google",
+      "amount": 821.79,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "03-12-2024",
+      "description": "CSHI DEP (CDM) CDM1040103MINI BAZAR 60236",
+      "amount": 30000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "03-12-2024",
+      "description": "WDL TFR UPIDR/433817051432/VIJAYBHA",
+      "amount": 10000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "03-12-2024",
+      "description": "WDL TFR UPIDR/470417872643/BYOD",
+      "amount": 11000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-12-2024",
+      "description": "ACHDr DEBIT HDFC00064000003218",
+      "amount": 3763.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-12-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 7463.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-12-2024",
+      "description": "WDL TFR UPIDR/470656205523/VIJAYBHA",
+      "amount": 500.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "08-12-2024",
+      "description": "DEP TFR NEFT*UTIBO001306*AXOMB343",
+      "amount": 11000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "09-12-2024",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 12509.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "12-12-2024",
+      "description": "DEP TFR NEFT*UTIBO001306*AXOMB347",
+      "amount": 22000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "13-12-2024",
+      "description": "WDL TFR UPIDR/434865847974/DUMMY",
+      "amount": 21880.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "17-12-2024",
+      "description": "DEP TFR NEFT*UTIBO001306*AXOMB352",
+      "amount": 2000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "17-12-2024",
+      "description": "WDL TFR UPIDR/471889126848/adroja.",
+      "amount": 1000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "17-12-2024",
+      "description": "WDL TFR UPIDR/435212423261/adroja.",
+      "amount": 300.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "17-12-2024",
+      "description": "WDL TFR UPIDR/435243448808/DHARME",
+      "amount": 1400.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "18-12-2024",
+      "description": "DEP TFR UPI/CR/471933478532/DHARME",
+      "amount": 1400.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "19-12-2024",
+      "description": "WDL TFR UPIDR/472035925997/JAGJIT",
+      "amount": 200.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "22-12-2024",
+      "description": "WDL TFR UPIDR/472398544368/KAUSHIK",
+      "amount": 150.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "22-12-2024",
+      "description": "WDL TFR UPI/DR/435778689681/NARMAD",
+      "amount": 100.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "22-12-2024",
+      "description": "DEP TFR UPI/CR/301597323574/GOOGLE",
+      "amount": 6.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "24-12-2024",
+      "description": "DEP TFR NEFT'UTIB0001306'AXOMB359",
+      "amount": 2000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "24-12-2024",
+      "description": "WDL TFR UPIDR/472595564973/Google",
+      "amount": 149.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "24-12-2024",
+      "description": "WDL TFR UPI/DR/472581963472/Google",
+      "amount": 675.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "25-12-2024",
+      "description": "INTEREST CREDIT",
+      "amount": 56.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "27-12-2024",
+      "description": "WDL TFR UPIDR/436238849626/Jio",
+      "amount": 479.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "31-12-2024",
+      "description": "WDL TFR UPIDR/436645472468ladroja.",
+      "amount": 1000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "31-12-2024",
+      "description": "DEP TFR NEFT'UTIB0001306'AXOMB366",
+      "amount": 1000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "31-12-2024",
+      "description": "WDL TFR UPIDR/436689577145/Google",
+      "amount": 660.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "03-01-2025",
+      "description": "DEP TFR NEFT'UTIB0001306'AXOMB003",
+      "amount": 22000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "03-01-2025",
+      "description": "WDL TFR UPIDR/500375373012/Google",
+      "amount": 490.9,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "03-01-2025",
+      "description": "WDL TFR UPIDR/500378593462/VIJAYBHA",
+      "amount": 10000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "04-01-2025",
+      "description": "WDL TFR UPIDR/537077142916/GAYATRI",
+      "amount": 175.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-01-2025",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 3763.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-01-2025",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 7463.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "06-01-2025",
+      "description": "WDL TFR UPI/DR/500686207919/BSNL",
+      "amount": 340.06,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "08-01-2025",
+      "description": "DEP TFR UPICR/500835083831/HIREN",
+      "amount": 12500.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "09-01-2025",
+      "description": "DEBIT ACHDr HDFC000640000030218",
+      "amount": 12509.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "09-01-2025",
+      "description": "DEP TFR UPI/CR/537526509405/ARUN",
+      "amount": 60.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "03-02-2025",
+      "description": "DEP TFR NEFT'UTIB0001306'AXOMB034",
+      "amount": 10000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "03-02-2025",
+      "description": "ATM WDL ATM CASH: 2231 ST BUS STAND",
+      "amount": 5000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "04-02-2025",
+      "description": "DEP TFR UPI/CR/503511436999/VIJAYBHA",
+      "amount": 7000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "05-02-2025",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 3763.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-02-2025",
+      "description": "DEBIT ACHDr HDFC000640000030218",
+      "amount": 7463.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "08-02-2025",
+      "description": "DEP TFR UPI/CR/503989145791/AJAY G",
+      "amount": 2000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "08-02-2025",
+      "description": "DEP TFR UPICR/503947982187/SANEPAR",
+      "amount": 10000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "09-02-2025",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 12509.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "12-02-2025",
+      "description": "DEP TFR UPI/CR/540965130013/SOLANKI",
+      "amount": 420.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "20-02-2025",
+      "description": "DEP TFR NEFT*UTIBO001306*AXOMB051",
+      "amount": 20000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "20-02-2025",
+      "description": "ATM WDL ATM CASH 2005 TOM379",
+      "amount": 10000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "20-02-2025",
+      "description": "ATM WDL ATM CASH 2006 TOM379",
+      "amount": 10000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "20-02-2025",
+      "description": "REVERSE. ATM WDL",
+      "amount": 10000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "20-02-2025",
+      "description": "ATM WDL ATM CASH 2007 TOM379",
+      "amount": 10000.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "02-03-2025",
+      "description": "DEP TFR UPI/CR/506123112780/JAYESH",
+      "amount": 4000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "03-03-2025",
+      "description": "DEP TFR NEFT'FDRLO000037*FDRLM806",
+      "amount": 7000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "05-03-2025",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 7463.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-03-2025",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 3763.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "07-03-2025",
+      "description": "DEP TFR UPI/CR/506613054647/ATULKU",
+      "amount": 400.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "08-03-2025",
+      "description": "DEP TFR NEFT'FDRL0000037\"FDRLM806",
+      "amount": 2000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "08-03-2025",
+      "description": "DEP TFR UPI/CR/506766304029/IIJAYBHA",
+      "amount": 10000.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "09-03-2025",
+      "description": "DEBIT ACHDr HDFC00064000003218",
+      "amount": 12509.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "13-03-2025",
+      "description": "WDL TFR SBIYA25072190904365133611-",
+      "amount": 100.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "25-03-2025",
+      "description": "INTEREST CREDIT",
+      "amount": 16.0,
+      "type": "credit",
+      "balance": null
+    }
+  ]
+}
