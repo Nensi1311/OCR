@@ -1,0 +1,235 @@
+{
+  "transactions": [
+    {
+      "date": "22-01-2025",
+      "description": "MMT/IMPS/502208274740/NA 508315232/Janaki MOBILE BANKING Man/HDFCOOO0128",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "22-01-2025",
+      "description": "ICICI CRM CAM11232HARICASH DEP-Other/22-01-25/5992",
+      "amount": 0.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "22-01-2025",
+      "description": "MMT/IMPS/502216319238/NA 508315232/Janaki MOBILE BANKING Man/HDFCOOOO128 BILJINFTIEAQ6842275/Deepa maha Kumbl",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "23-01-2025",
+      "description": "MMT/IMPS/502308295882/NA 508315232/Janaki MOBILE BANKING Man/HDFCOO00128",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "24-01-2025",
+      "description": "BILPAVC/000960916102/Visal JANUICICI",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-02-2025",
+      "description": "Home Loan XX64089 EMI Janaki M",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-02-2025",
+      "description": "Auto Loan XX92422 EMI Janaki M",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "06-02-2025",
+      "description": "MMT/IMPS/503718390554/RENT MOBILE BANKING PAIDIMAHALAXMI /HDFC Bank NEFT-IDIBN520250207459997 9-INDIAN BANK",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "07-02-2025",
+      "description": "MNR-IIATTN 00000099635047329 IDIBOOOH6O1",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "08-02-2025",
+      "description": "BILPAVC/000968430325/Visal Janu",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "08-02-2025",
+      "description": "BILPAVC/000968432113/VisalJANUICICI",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "10-02-2025",
+      "description": "BILJINFTIEBE0542783/car EMI Februar/ SURISETTY",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "11-02-2025",
+      "description": "To RD Ac no 006925023607",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "18-02-2025",
+      "description": "ICICI CRM CAW1123ZHARICASH DEP-Other/18-02-25/1125",
+      "amount": 0.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "24-02-2025",
+      "description": "MMT/IMPS/505512606239/NA 508315232/Janaki MOBILE BANKING Man/HDFCOO00128",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "27-02-2025",
+      "description": "DCardfee3133FEB2S-JAN26+ GST BIL/000977917736/ICICI BANK",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "02-03-2025",
+      "description": "NET BANKING CA/437551462412 NEFT-IDIBN52025030449699939-LEASED FOR FEB",
+      "amount": 0.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "04-03-2025",
+      "description": "VISHAL RAJ-IIATTN 1/-00000098741047324 IDIBOOOH6",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-03-2025",
+      "description": "BILINFTIEC54469236/car emi march/ SURISETTY",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-03-2025",
+      "description": "BILINFTIEC54477089/car EMI marchl SURISETTY",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-03-2025",
+      "description": "BILINF TIEC54499680/Familyl SURISETTY SUDHE",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-03-2025",
+      "description": "Home Loan XX64089 EMI Janaki M",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "05-03-2025",
+      "description": "Auto Loan XX92422 EMI Janaki M",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "09-03-2025",
+      "description": "NEFT-HDFCN52025030907532481-MAHALAXMI TRADERS-0001-50200092259197-HDFCOOOOOO1",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "11-03-2025",
+      "description": "To RD Ac no 006925023607",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "12-03-2025",
+      "description": "MMTIIMPS/5O7118137766/Hyundai servcg/Sri",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "22-03-2025",
+      "description": "BILBPAYIOOOOOO13EATQIBBPSIHDFC Credi/988557",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "25-03-2025",
+      "description": "BILINFTIECT7766068/ SUBHAJIT SAHA",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "26-03-2025",
+      "description": "ICICI CRM CAW/11231SRYICASH DEP-Other/26-03-25/7367",
+      "amount": 0.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "26-03-2025",
+      "description": "ICICI CRM CAM/11231SRYICASH DEP-Other/26-03-25/7369",
+      "amount": 0.0,
+      "type": "credit",
+      "balance": null
+    },
+    {
+      "date": "27-03-2025",
+      "description": "BILINFTIECV8068113/checkl ABHIJIT CHANDA",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "27-03-2025",
+      "description": "BILINFTIECV8068742/Rent Mar25/ ABHIJIT CHANDA",
+      "amount": 0.0,
+      "type": "debit",
+      "balance": null
+    },
+    {
+      "date": "29-03-2025",
+      "description": "006901519642 Int Pd:31-12-2024 to 28-03-2025 BIL000990294843/ICICI BANK",
+      "amount": 0.0,
+      "type": "credit",
+      "balance": null
+    }
+  ]
+}
